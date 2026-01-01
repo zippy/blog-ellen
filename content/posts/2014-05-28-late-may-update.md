@@ -15,8 +15,10 @@ I started getting IV vitamin C every week or so a couple weeks ago.  I'm also h
 
 The summer semester started last week and so I am turning my attention to working on my independent-study project (actually doing the data analysis I planned and researched in my previous two Critical Inquiry classes on research).  There are nine new lambs on the land and they are often viewable right out my bedroom window (or back door) because they are pastured just west of our house.  Everything is spring green.  (except the lambs)
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Gina Qualliotine</span>

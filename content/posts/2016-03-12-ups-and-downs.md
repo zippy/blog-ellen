@@ -15,8 +15,10 @@ I am less sturdy on my feet again and needing help with dizzy spells and sometim
 
 On the bright side, though, both Will and Jesse are home for spring break now so our house is full. And my friend Leigh is coming today to visit for a few days!   I hope I don't have to spend too much of that time resting.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dorian</span>

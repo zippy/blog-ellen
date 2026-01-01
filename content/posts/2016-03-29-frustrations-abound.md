@@ -17,8 +17,10 @@ Mouse over the pictures for a quick description.  Click on the pictures to read
 
 <hr />
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Debra</span>

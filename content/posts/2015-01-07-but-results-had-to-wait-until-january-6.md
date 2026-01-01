@@ -41,8 +41,10 @@ Me: "Well THAT certainly doesn't fill me with CONFIDENCE!"
 
 Me, thinking:* Whoops, I just gave myself another brain met with the power of my BRAIN.*
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

@@ -10,8 +10,10 @@ categories:
 Me and a porch post.  More curls than I have ever had in my life.  (But I'll take it.) Photo by Jesse.
 <p style="text-align: center;"><a href="/blog/images/EllenHaironPorch1014_sm21.jpg"><img class="aligncenter size-full wp-image-442" title="EllenHaironPorch1014_sm" src="/blog/images/EllenHaironPorch1014_sm21.jpg" alt="EllenHaironPorch1014_sm" /></a></p>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dee</span>

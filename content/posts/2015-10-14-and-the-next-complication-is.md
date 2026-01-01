@@ -24,8 +24,10 @@ categories:
 <p class="p1"><span class="s1">The list of things is getting long.  Working as a midwife. Time and energy to work on programming.  Vigorous exercise like interval training and jogging.  Now even walking longer distances for exercise.  Sure-footedness.  Right now I can't even do Qi Gong because it takes too much deep breathing.  Enjoying a bright sunny day. Waking up without a headache.  Time--so much time every single day is spent on the requirements of being sick instead of living life.</span></p>
 <p class="p1">The limitations of my current life are forcing me to give things up. Maybe sometime I will learn to let go of them with more grace and acceptance instead.</p>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

@@ -14,8 +14,10 @@ categories:
 <p class="p1"><span class="s1">We reduced my chemo dose too, because of my increasingly numb/painful left foot.  It is weird that I have such serious neuropathy in one foot only--usually chemo-induced neuropathy is more symmetrical.  But it is what it is--I just feel lucky that it's only one foot.</span></p>
 <p class="p1"><span class="s1">Sometimes I wonder where my time goes.  Why am I not doing more "work"?  And then as I apply the TENS unit to my numb foot, negotiate with the insurance company about covering my pain cream for another month, make a lymphedema clinic appointment, and remember that I had chemo this morning before that trip to shop at the food co-op and the nap, I kinda vaguely see the problem...</span></p>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

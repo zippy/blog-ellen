@@ -11,8 +11,10 @@ In the Boston airport with Eric, Will, Jesse, and Jesse's friend Lydia, waiting 
 
 However, we are staying only ten minutes' walk from a famous chocolatier.  More later!
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Gina Qualliotine</span>

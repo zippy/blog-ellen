@@ -33,8 +33,10 @@ Fatigue means I ask for people to do stuff for me a lot--as much as my ego can h
 
 But really, it's shocking to me how different my capabilities are from a year ago.  How diminished.  Am I this person? I did *not* sign up for this.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Debra Hunter</span>

@@ -15,8 +15,10 @@ Since Monday's chemo I have been actively practicing my new spiritual practice, 
 
 My brain is not so tired now that I am easing off the anti-seizure meds that were making me goony for the week after radiosurgery.  Which is nice.  But I still have body fatigue, and I don't know whether that is the result of chemo or still lingering from radiosurgery.  I guess this will all settle out as the weeks go on.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Gina Qualliotine</span>

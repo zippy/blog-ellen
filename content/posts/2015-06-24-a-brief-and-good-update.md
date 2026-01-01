@@ -19,8 +19,10 @@ Today's appointment with the neurologist was good--we liked her, she spent lots 
 
 So that was the news this week.  I do believe I have No Other Medical Appointments until next Tuesday's chemo, and the day after that, all the Harris-Brauns, plus Jesse's sweetie Lydia, are off to Aix-en-Provence for some summer living in France!
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dorian</span>

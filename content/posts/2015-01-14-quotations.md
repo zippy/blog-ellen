@@ -29,8 +29,10 @@ And finally, a quote from me: "I would cry more often if it wasn't for all the s
 
 (Today's pre-zap set-up procedure went fine and tomorrow afternoon is the Real Thing.  Should only be a bit over an hour for the procedure itself, starting at 1:30. I get to bring my own CDs.)
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

@@ -19,8 +19,10 @@ Since my last update I attended the Midwives Alliance of North America's annual 
 
 Fall is coming to a close here in Columbia County and we're moving into sometimes-dreary early winter.  I enjoyed the long leaf season, though.  Will is enjoying Buxton School (his Williamstown, MA progressive, small boarding high school) and Jesse is struggling somewhat with homeschooling.  We're looking forward to Thanksgiving in (warm? sunny?) Houston with my mom's side of the family plus fun friends.  But before that, one more week of chemo/IV vitamin C, and then those scans.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Gina Qualliotine</span>

@@ -19,8 +19,10 @@ tags:
 <p class="p1"><span class="s1">• I </span><span class="s1">switched in May from morphine to methadone for my main pain relief, hoping to get more solid relief with less fogginess.  So far, same level of incomplete relief, less fogginess.  So now we increase the dose to see if I can get better relief.  Areas that hurt: left knee, currently broken left foot, both hands (numb and clumsy and touching most things now hurts (like popcorn and velcro). Back less than before.  Headache much less than at its worst.</span></p>
 <p class="p1">• The big thing going on, besides the 3 broken foot bones, is fatigue of both mind and body, and shortness of breath (likely due primarily to lung mets, but we'll find out more at my next scans).  I don't go out much.  When I do have a day that includes more than one or two events, I need to rest up afterwards--and beforehand if I'm smart.  I am slowly getting used to this.  It is still sad, though, how everyone around me has redefined a "big day" downward over recent weeks so that a current big day contains the same number of events an easy day used to contain.</p>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <a href="http://gravatar.com/shelshap" class="comment-author">Shelly</a>

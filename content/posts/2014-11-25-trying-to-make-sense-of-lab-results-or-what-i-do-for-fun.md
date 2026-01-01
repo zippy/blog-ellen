@@ -12,8 +12,10 @@ Thinking about my various lab results (bloodwork done every chemo day), I was wo
 <p style="text-align: center;"></p>
 <p style="text-align: left;">WBC=white blood cell count, RBC=red blood cell count, HGB=hemoglobin, AST & ALT are liver enzymes.  Values for Week 1 and Week 2 of the chemo cycle are shown in matching pairs of colors--bright and lighter.  (Values were normalized so they would all show nicely on the same graph.)  Pretty, huh?  Next it would be fun to graph them all in relation to their normal values, somehow.</p>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Steve Sawin</span>

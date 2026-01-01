@@ -11,8 +11,10 @@ This morning's radical haircut.
 
 <img hspace=3 src="/blog/images/buzz21.jpg" width=200><img src="/blog/images/buzz11.jpg" width=200>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">dorian</span>

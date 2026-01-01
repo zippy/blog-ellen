@@ -37,8 +37,10 @@ Here's a famous picture of Ellen using midwife caregiving tools.
 
 <img class="alignright wp-image-1401 size-full" src="/blog/images/Ellen-doing-midwifery-work-2009.png" />
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

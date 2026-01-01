@@ -26,8 +26,10 @@ I think at this point since there's no swelling in my brain (the main reason I w
 
 <img class="size-medium wp-image-750" src="/blog/images/Barn_Swallow_in_Flight.jpg" alt="Barn Swallow" /> **Barn Swallow**
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

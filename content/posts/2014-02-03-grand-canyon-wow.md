@@ -34,8 +34,10 @@ I think I could have hiked, because my radiation fatigue went away on Saturday! 
 
 <img class="size-large wp-image-220 " title="GCRimEvening" src="/blog/images/GCRimEvening1.jpg" alt="The south rim in the evening" />
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Gina Qualliotine</span>

@@ -27,8 +27,10 @@ On the other hand, this summer sometime my eyebrows grew back.  For a while I h
 
 But the way I look now overall gives the game away: I am an ill person, not a healthy person.  I am far more self-conscious now when I go places, like the chiropractor or even my oncologist's offfice.  In the waiting room, I'm one of the obviously in-treatment And when I dig into how I feel about this transformation, I find a lot of vanity about my previous appearance--which I was very happy with--and grief that I have lost that, and with it my own feeling of being attractive.  I really *liked* my cheekbones.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">KM</span>

@@ -23,8 +23,10 @@ So the paint-stripper version: no miracle is happening. All the things I'm doing
 
 "Cancer Interv-hell"...what do you think?
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dorian</span>

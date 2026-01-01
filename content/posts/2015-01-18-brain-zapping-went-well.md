@@ -9,8 +9,10 @@ categories:
 
 The zap on Thursday was much quicker and easier than last January, and now I'm feeling low-energy (as expected) and fuzzy in the brain (also expected, due to temporary anti-seizure meds I have to take just in case for a week).  My mom is visiting to help out and I am spending much time on the couch in front of the warm masonry heater!  Chemo starts again on Thursday. More news later.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

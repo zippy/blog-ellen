@@ -13,8 +13,10 @@ Chemo vs. scans to see what's been accomplished inside of me :)
 
 I also have 3 cranio-sacral therapy appointments set up for March to work on my spinal cord and brain from a different angle.  Back when I made the appointments in early February, before starting I didn't really know whether I would still be around for them.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Gina Qualliotine</span>

@@ -27,8 +27,10 @@ Below is a photo of the four sisters: Lisa, Deb, Anne, and Ellen
 
 <a href="/blog/images/IMG_8183-copy.jpg"><img class="aligncenter size-large wp-image-1429" src="/blog/images/IMG_8183-copy.jpg" alt="img_8183-copy" /></a>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Mary Anne Davis</span>

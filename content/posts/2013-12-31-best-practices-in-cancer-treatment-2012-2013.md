@@ -13,8 +13,10 @@ ASCO's <a href="http://jco.ascopubs.org/content/30/14/1715.long" target="_blank
 <blockquote>Smith and Hillner<sup><a id="xref-ref-15-2" href="http://jco.ascopubs.org/content/30/14/1715.long#ref-15">15</a></sup> suggested the simple rule that patients must be well enough to walk  unaided into the clinic to receive chemotherapy. When                            oncology practitioners receive direct  feedback about overuse and misuse of chemotherapy in the end-of-life  setting, they quickly                            improve practice, with chemotherapy in the  last 14 days of life falling from 50% to less than 20% in one quarter.<sup><a id="xref-ref-36-2" href="http://jco.ascopubs.org/content/30/14/1715.long#ref-36">35</a></sup> Stopping anticancer treatment should always be accompanied by  appropriate palliative and supportive care and referral to                            hospice, and the best practice would be  continuation of palliative care started concurrently at the time of  diagnosis for                            “any patient with metastatic cancer and/or  high symptom burden.”</blockquote>
 Interesting that so much of these latest recommendations center around breast cancer rather than other cancers.  (Lung & prostate are also mentioned often, but not much else.)  Reasons might include: so many people have it; it's so often curable; treatment options are changing fast due to new drugs and lots of trials; high consumer pressure to improve treatment side-effects & efficacy (the effect of having mostly healthy patients, as in birth); more backward than other realms of cancer care?
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">KM</span>

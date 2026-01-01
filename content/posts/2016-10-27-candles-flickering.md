@@ -15,8 +15,10 @@ With steroids out of her system, Ellen’s high cheekbones and gorgeous jawline 
 
 <a href="/blog/images/ellen-1989-July-Cotswolds-Broadway-Tower-hike_0004-002.jpg"><img class="aligncenter size-medium wp-image-1438" src="/blog/images/ellen-1989-July-Cotswolds-Broadway-Tower-hike_0004-002.jpg" alt="ellen-1989-july-cotswolds-broadway-tower-hike_0004-002" /></a>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dorian</span>

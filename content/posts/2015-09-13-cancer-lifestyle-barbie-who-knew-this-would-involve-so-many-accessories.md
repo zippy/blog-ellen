@@ -27,8 +27,10 @@ Packing for trips involves a whole 'nother layer of thinking and planning now. Â
 
 <a href="/blog/images/IMG_0750.jpg"><img class="size-medium wp-image-770" src="/blog/images/IMG_0750.jpg" alt="Jesse in my hat" /></a> Jesse in my hat
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Debra</span>

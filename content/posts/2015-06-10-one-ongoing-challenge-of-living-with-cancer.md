@@ -11,8 +11,10 @@ I am getting **bored** with how much I think about/talk about/update people abou
 
 But it's not just about my interactions with other people; I am getting a bit fed up with how much of my **own** attention my body currently requires.  I wake up feeling not so good; or I can't fall asleep because various things hurt or feel weird; I then start to investigate whether this is just tiredness from not enough sleep, post-chemo ick, post-radiation fatigue still dogging me, or did I do too much with all that going on yesterday and now I'm paying a body price?  Or is something new going on that I need to pay attention to, some new symptom or side effect that needs to be reported on, treated, prevented, ameliorated?  *Whoof!* it's kind of tiresome.  It's another way in which cancer is taking up so much of my life--not a way I anticipated.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Gina Qualliotine</span>

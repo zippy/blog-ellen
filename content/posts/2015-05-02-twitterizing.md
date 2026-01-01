@@ -9,8 +9,10 @@ categories:
 
 Blog posts will now be announced on Twitter for the convenience of those of you who use it.  I'm @eharrisbraun and I have only ever posted exactly ONE Tweet.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dorian</span>

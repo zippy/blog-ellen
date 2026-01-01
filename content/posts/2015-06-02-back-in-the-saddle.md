@@ -15,8 +15,10 @@ In other news, I got approved for disability payments from Social Security in wh
 
 And now "spa time" in the infusion room is over and it's off to the coop.  Soon I'll post some pictures from last week's SRS adventure.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dee</span>

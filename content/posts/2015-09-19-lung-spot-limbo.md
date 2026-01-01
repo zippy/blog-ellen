@@ -27,8 +27,10 @@ We talked about the different meanings and weights of "dying of cancer," "has te
 
 And now, to the important stuff: I must go pack!
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

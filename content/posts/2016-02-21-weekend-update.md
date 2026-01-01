@@ -15,8 +15,10 @@ Dealing with Fatigue:
 
 Boy, do I sound tired! Possibly more tired in my voice than the rest of me.  I did notice today that my voice was really weak, so you are getting to hear what that sounds like.  Not much like me, at least to my ear.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Deb</span>

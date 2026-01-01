@@ -9,8 +9,10 @@ categories:
 
 Recently in the *New York Times *Atul Gawande wrote about <a href="http://nyti.ms/1s2nqnz" target="_blank">end-of-life care and helping people make the most of the time they have left</a>.  Makes sense to me.  Let's hope the four questions he describes can be a general Rx for doctors everywhere.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dee</span>

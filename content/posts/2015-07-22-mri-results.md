@@ -15,8 +15,10 @@ But the only way to get my own adrenal glands to re-start making enough corticos
 
 Anyway, off to call Joanne!
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dorian</span>

@@ -21,8 +21,10 @@ I will spare you all the details but after a visit to the orthopedist on Monday 
 
 Makes everything harder.  I have to use the purple walker to take the weight off that foot and this coming week will rent a small wheelchair.  Sigh. How this affects our Montreal plans I am not sure yet.  Eric thinks we should just go anyway, June 3 through 6.  I don't see why we couldn't postpone the trip for a couple weeks, until I have less pain and hassle.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Debra</span>

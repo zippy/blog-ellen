@@ -16,8 +16,10 @@ I got a lesson in New Orleans-style head-wrapping from my mom's friend Dianne, a
 
 Thanks, Dianne!  (Here is one thing Dianne does…<a href="https://www.facebook.com/photo.php?fbid=604234206290614&set=a.443064112407625.94211.328903373823700&type=1&theater" target="_blank">historic tours!</a>)
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dee</span>

@@ -11,8 +11,10 @@ Coming to you live from the chemo suite! Our trip is over and we're slowly getti
 
 It seems like Jesse grew an inch while we were gone. They are interested in helping me out, which is fun. This afternoon they pushed my chair for a bit because Eric had to park the car instead of coming in with us. I wanted a picture.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Susan Baer</span>

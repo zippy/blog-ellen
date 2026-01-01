@@ -17,8 +17,10 @@ We are grateful for all the thoughts, care and holding in the light that we fe
 
 -Eric & Spee
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dorian</span>

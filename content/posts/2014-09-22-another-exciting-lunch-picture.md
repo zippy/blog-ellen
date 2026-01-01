@@ -11,8 +11,10 @@ categories:
 <p style="text-align: center;"><a href="/blog/images/IMG_20140922_1348261.jpg"><img class="aligncenter size-large wp-image-398" title="IMG_20140922_134826" src="/blog/images/IMG_20140922_1348261.jpg" alt="IMG_20140922_134826" /></a></p>
 <p style="text-align: center;">Tomorrow I start a new chemo cycle (I believe it's cycle 13).</p>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Gina Qualliotine</span>

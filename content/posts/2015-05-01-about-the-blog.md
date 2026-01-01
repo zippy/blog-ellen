@@ -9,8 +9,10 @@ categories:
 
 The new look of the blog was forced upon me today by Eric upgrading our WordPress--the 2006 blog theme was no longer available.  Hope you like the new fancier stylings.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <a href="http://gravatar.com/speebraun" class="comment-author">Spee</a>

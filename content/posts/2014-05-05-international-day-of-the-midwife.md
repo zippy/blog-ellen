@@ -19,8 +19,10 @@ The barn swallows are back in our neighborhood, nesting in our eaves as usual. �
 
 And the semester (of midwifery grad school) is over.  All my grad-school friends are on-campus this week learning "birth skills"…I wish I were there.  They better ask lots of questions since I am not there to do so!
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">M....</span>

@@ -14,8 +14,10 @@ Today is "quick" chemo (just methotrexate) and my stepsister Deb, who is visitin
 
 I am still really fatigued most of every day--I assume it's the demanding new chemo schedule.  Hard to adjust to, and I hope it's just a phase.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <a href="http://gravatar.com/shelshap" class="comment-author">Shelly</a>

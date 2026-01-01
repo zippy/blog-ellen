@@ -13,8 +13,10 @@ categories:
 <p class="p1">After an extra weekend spent at home instead of at Buxton--which ended up being spent largely here at the hospital or back-and-forth in the car--Will took one of our VW's back to school with him yesterday so he can come back and visit when he needs to.</p>
 <p class="p1">Spirits are good even though I miss my bed and my sofa and my fire.  I have my people.</p>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <a href="http://gravatar.com/blueloggy" class="comment-author">blueloggy</a>

@@ -14,8 +14,10 @@ A few weeks ago my good friend Birdie sent us Atul Gawande's latest book, **<a h
 </ul>
 <a href="http://atulgawande.com/book/being-mortal/"><img class="alignleft" src="http://atulgawande.com/wp-content/uploads/2014/08/atul-beingmortal-cover3d1-319x479.jpg" alt="BEING MORTAL book cover" /></a>Here's <a href="http://www.nytimes.com/2014/10/07/health/being-mortal-explores-the-benefits-of-setting-goals-for-death.html" target="_blank">the *New York Times* review</a>, which tells a bit more about the author's journey through these issues.  It's a book powered more by stories than by studies--very readable, and full of insights that I found really important.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Sandy</span>

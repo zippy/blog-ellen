@@ -11,8 +11,10 @@ Argh, so frustrating to need to Rest Up explicitly in a day before tackling a ta
 
 This morning after sleeping in, I sat on our porch surrounded by the beautiful, damp bright-green view I am lucky enough to have, of trees, grasses, wildflowers of late spring, darting swallows, sparrows, starlings...people moving around the land with more energy than I have...we drank our tea and I soaked it all in.  Ahhh.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">David Millians</span>

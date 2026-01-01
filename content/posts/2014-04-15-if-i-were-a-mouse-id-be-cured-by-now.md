@@ -9,8 +9,10 @@ categories:
 
 (a button seen today at the oncologist's office--round 5, dose 2 of chemo)
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dee</span>

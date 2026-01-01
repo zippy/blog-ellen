@@ -17,8 +17,10 @@ While it seems Ellen’s arms and legs are staying relatively strong for all tha
 
 Here are sweet photos from Ellen and Eric’s wedding day in 1994.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

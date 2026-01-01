@@ -11,8 +11,10 @@ categories:
 <p class="p1">Still hoping to go home sometime tomorrow to await the Ommaya surgery when the neurosurgeon decides it's time.  Discharge will depend on both the Neurology and Neurosurgery services setting me free; then the Medicine service will cut me loose as well.</p>
 <p class="p1"></p>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

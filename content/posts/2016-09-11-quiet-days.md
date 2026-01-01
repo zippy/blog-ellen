@@ -28,8 +28,10 @@ Here are some pictures of Ellen from years past, just for fun.
 
 <a href="/blog/images/2012-08-11_09-21-23_418.jpg"><img class="size-medium wp-image-1314" src="/blog/images/2012-08-11_09-21-23_418.jpg" alt="On a hike in Vermont" /></a> On a hike in Vermont (2012)
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Debra Hunter</span>

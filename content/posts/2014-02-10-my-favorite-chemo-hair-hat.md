@@ -13,8 +13,10 @@ categories:
 
 It's soft & stretchy and has a nice shape on a head missing most of the hair.  I have two!  Yay!
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Gina Qualliotine</span>

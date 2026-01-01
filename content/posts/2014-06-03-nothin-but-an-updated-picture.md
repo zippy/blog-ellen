@@ -10,8 +10,10 @@ categories:
 <p style="text-align: center;">Me by the garden in the meadow grasses (watching Eric sift dirt)</p>
 <p style="text-align: center;"><a href="/blog/images/EllenGrass11.jpg"><img class="size-medium wp-image-352  aligncenter" title="EllenGrass" src="/blog/images/EllenGrass11.jpg" alt="EllenGrass" /></a></p>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

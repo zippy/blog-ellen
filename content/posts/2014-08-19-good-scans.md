@@ -17,8 +17,10 @@ After a brief discussion with my oncologist of our consultation at the Block Cen
 
 So they added two new rooms onto the infusion area by opening up what used to be a corridor of private treatment rooms for really sick folks, and they seem to to me to have missed the boat on effective design.  The two rooms are open on one side (the side that connects to the rest of the area) so they're really more like giant alcoves.  Each has 5 or 6 infusion chairs.  All face each other--so when sitting in one, you are looked at by all the others.  This does not seem to me to be a nice way to set up the chairs.  However, it does mean that all the patients can be easily seen by the nursing staff as they walk by or stand at the open end of the room/alcove.  Still.  Our favorite chair is still at the end of the hall that comes off the main room like a little tail.  It has a great view of the medication-preparation room (with exciting science-lab hood!) and the water cooler.  Plus it's near the bathrooms.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

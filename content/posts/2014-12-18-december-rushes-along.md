@@ -19,8 +19,10 @@ Changing health-insurance companies has a lot of down sides--most importantly, w
 
 Through this foggy time I have managed to pretty much keep up with exercise, both walks and cardio/interval training, doing both most days.  I have company most days, which is great and keeps me going.  The weather means we are doing more exercise indoors.  I'm also keeping up with green veggies, my various I'll-bet-on-them-under-the-circumstances supplements, and of course chemo, IV vitamin C, and acupuncture.  My last round of chemo was easier than usual, maybe because I got an extra week off beforehand for Thanksgiving travel.  (We went to Houston for Thanksgiving with family, which was really nice, and I ran 3 miles for the first time in my life, with my sister!)
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

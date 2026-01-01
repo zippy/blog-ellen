@@ -27,8 +27,10 @@ In the plus column I've gotten the lymphedema in my left arm under control so I 
 <p style="text-align: center;">**"No BP Left Arm"**</p>
 <p style="text-align: center;">**"(No SpO2, no IV, no lifejacket storage)"**</p>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Debra Hunter</span>

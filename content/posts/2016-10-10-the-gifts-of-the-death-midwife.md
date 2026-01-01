@@ -18,8 +18,10 @@ Here is a photo of midwife Michelle teaching Ellen to suture.<a href="/blog/ima
 
 <a href="/blog/images/Ellen-Michelle-Suture-Practice.jpg"><img class="aligncenter wp-image-1389 size-large" src="/blog/images/Ellen-Michelle-Suture-Practice.jpg" alt="ellen-michelle-suture-practice" /></a>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

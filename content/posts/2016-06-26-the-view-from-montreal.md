@@ -29,8 +29,10 @@ We are about to go to Cirque de Soleil down on a quai on the river.  Mobility-i
 
 Tomorrow we will go on a boat tour and maybe also a bus tour.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

@@ -17,8 +17,10 @@ The foot and leg edema that was an unfortunate gift of my last hospital stay is 
 
 Eric goes to California on Sunday for a week and my mom comes Sunday night for the duration. I am lucky to have so many retired and self-employed people in my family who can come visit when it's needed!
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <a href="http://gravatar.com/wendycpm" class="comment-author">Wendy</a>

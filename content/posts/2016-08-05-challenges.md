@@ -13,8 +13,10 @@ My brain is less functional than before in these areas: keeping track of the day
 
 The same thing is happening all over my life.  Housekeeping, clothes-buying, finances, bill-paying.  The shift is challenging me to let up my grip, be okay with things done a different way than mine, and  trust Eric more than before in realms we both (I think) agree I am more skilled in.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Gina Qualliotine</span>

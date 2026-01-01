@@ -12,8 +12,10 @@ categories:
 <p class="p1">So I keep wearing myself out and I don't notice all the time how far I am from being a healthy person.<span class="Apple-converted-space">  </span>Then some kind of reality check sinks in, like being offered a cut in the bathroom line at the movie because I have a stick to help me balance and I am obviously not healthy.<span class="Apple-converted-space"> Oh.  This is me they're offering special treatment to?</span></p>
 <p class="p1">On paper right now things look okay.<span class="Apple-converted-space">  T</span>he chemo we started in December and early February are both working, it seems like from the CAT scans and MRIs, and so on paper my cancer is ‘responding to second-line therapy” blah blah blah but then in my real life right now it seems really hard. Maybe more for emotional and psychological reasons than physical, but the physical – particularly fatigue and trouble walking – is pretty tough right now.</p>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Susanrachel Condon</span>

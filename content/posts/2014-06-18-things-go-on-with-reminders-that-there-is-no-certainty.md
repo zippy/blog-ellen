@@ -19,8 +19,10 @@ So we got to see some cool MRI images of my brain--thank you, anatomy & physiolo
 
 Meanwhile chemo continues to be quite bearable, I'm getting IV Vitamin C, the boys are out of school, the fireflies are amazing at night in the field below our house, and I'm eating ice cream way too often.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Gina Qualliotine</span>

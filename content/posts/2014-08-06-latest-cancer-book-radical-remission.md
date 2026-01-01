@@ -19,8 +19,10 @@ So one thing most everybody did was radically change their diet to eliminate or 
 
 More soon on my informative trip to the <a href="http://www.blockmd.com" target="_blank">Block Center</a> in Illnois.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dee</span>

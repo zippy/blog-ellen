@@ -13,8 +13,10 @@ We hold deep gratitude for all your love, prayers, chocolate, healthy food, and
 
 We welcome your Ellen stories and memories here on this blog or by snail mail to Eric at 229 Bradley’s Crossing Road, Stop 19, East Chatham, NY 12060.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <a href="http://romancespinners.blogspot.com" class="comment-author">Heidi Kneale (Her Grace)</a>

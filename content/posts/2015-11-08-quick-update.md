@@ -13,8 +13,10 @@ I didn't have a headache at all on Wednesday or Thursday in the hospital, but we
 
 Anyway, the plan for the next week is: rest as much as possible, take antibiotics, and eventually feel better.  Then the week after that, back to chemo.  I guess I'm just skipping the second dose of round 29.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Gina Qualliotine</span>

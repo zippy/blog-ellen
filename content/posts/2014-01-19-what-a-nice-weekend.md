@@ -13,8 +13,10 @@ The people who are living with metastatic cancer are showing up for me--through 
 
 What next week offers: chemo tomorrow AM, a final postpartum visit with a recent client Tuesday, a follow-up appointment with the radiation oncologist Thursday, and PACKING! for the Grand Canyon emergency family adventure trip that starts Saturday AM (and brings us home Thursday the 30th).
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Gina Qualliotine</span>

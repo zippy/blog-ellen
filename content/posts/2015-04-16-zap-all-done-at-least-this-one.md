@@ -27,8 +27,10 @@ So we talked about my next set of zaps, with the much-easier mask routine (4 or 
 
 <a href="/blog/images/srs-club-card1.jpg"><img class="wp-image-533 size-medium" title="srs club card" src="/blog/images/srs-club-card1.jpg" alt="I'm actually up to 8 but Chandra didn't have a hole punch." /></a> I'm actually up to 8 but Chandra didn't have a hole punch.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Larin</span>

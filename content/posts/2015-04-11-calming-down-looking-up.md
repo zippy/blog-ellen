@@ -19,8 +19,10 @@ So, Tuesday is my brain zap which means Monday I have yet another brain MRI.  T
 
 Sounds fun, huh?  I think I'll just rest up between now and that next adventure.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">David</span>

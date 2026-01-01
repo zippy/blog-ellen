@@ -27,8 +27,10 @@ And also in technology, we pointed out to my oncologist a few weeks ago that the
 
 So I took that and we are making an even more useful spreadsheet, so each met can be followed from discovery to ZAP and beyond (as it shrinks away).  So much fun, this cancer thing!
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Kathryn Montgomery</span>

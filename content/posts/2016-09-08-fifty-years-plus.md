@@ -20,8 +20,10 @@ Yesterday, Ellen was officially admitted into hospice care.  Many people want t
 
 Your love surrounds Ellen and us powerfully - thank you so much.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

@@ -19,8 +19,10 @@ So this is good news--especially the downgrading of one of the spots to probably
 
 Note to brain: despite my desire to have a plan and get things over with, I want you to know that I would be very happy to have an MRI in 4 weeks that showed "not enough" growth.  So don't knock yourselves out in there in the interim.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Gina Qualliotine</span>

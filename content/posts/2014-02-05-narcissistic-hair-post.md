@@ -19,8 +19,10 @@ Now it is at least half gone and coming out much faster.
 
 Adding hair-loss data to the breast-cancer world, the falling out started on day 15 of my first cycle of Eribulin.  (First-line Eribulin for MBC but previous Adriamycin and Taxotere for primary cancers years ago.)
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">erin</span>

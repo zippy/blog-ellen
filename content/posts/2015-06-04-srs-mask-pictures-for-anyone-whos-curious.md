@@ -23,8 +23,10 @@ categories:
 <p style="text-align: center;"><a href="/blog/images/20150529_142300.jpg"><img class="aligncenter size-large wp-image-623" src="/blog/images/20150529_142300.jpg" alt="20150529_142300" /></a><a href="/blog/images/20150529_142233.jpg">
 </a><a href="/blog/images/20150529_142322.jpg"><img class="aligncenter size-large wp-image-624" src="/blog/images/20150529_142322.jpg" alt="20150529_142322" /></a></p>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Laurie Foster</span>

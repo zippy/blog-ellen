@@ -23,8 +23,10 @@ Meanwhile, back at home, if you hold your arms just right…
 
 <a href="/blog/images/IMG_5917.jpg" rel="attachment wp-att-1069"><img class="alignnone wp-image-1069 size-medium" src="/blog/images/IMG_5917.jpg" alt="IMG_5917" /></a>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Birdie</span>

@@ -17,8 +17,10 @@ categories:
 <p style="line-height: normal; font-family: Helvetica;">When the mets are "stable" then I will be eligible for a trial again…until then, I'm not.  So that's another piece of immediate badness.  And at the big-picture level, it makes my prognosis worse.  Hard to treat the brain.</p>
 <p style="line-height: normal; font-family: Helvetica; min-height: 16px;">Moral: *Never* answer a call from an unrecognized phone number if you have advanced cancer!</p>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dee</span>

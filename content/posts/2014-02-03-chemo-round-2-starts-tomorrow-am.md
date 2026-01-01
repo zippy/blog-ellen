@@ -17,8 +17,10 @@ Speaking of tattoos:
 
 <a href="http://xkcd.com/"><img class="alignleft" title="XKCD breast-cancer tattoo comic" src="http://imgs.xkcd.com/comics/tattoo.png" alt="" /></a>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Isa</span>

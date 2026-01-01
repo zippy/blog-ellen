@@ -14,8 +14,10 @@ Here is our anticancer lunch:
 <div><a href="/blog/images/anticancer_lunch1.jpg"><img class="size-medium wp-image-306 aligncenter" title="anticancer_lunch" src="/blog/images/anticancer_lunch1.jpg" alt="anticancer_lunch" /></a></div>
 Tofu with turmeric and ginger and black pepper, shiitake mushrooms, broccoli, and brown rice.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

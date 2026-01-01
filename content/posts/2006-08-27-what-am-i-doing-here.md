@@ -19,8 +19,10 @@ Then I surface back into the world of the well where I am Greatly Impaired all o
 
 This slipping back and forth is hard to handle.  It's also hard to explain why a trip to the oncologist is easier to deal with, for me, than an afternoon at the beach.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">dduck</span>

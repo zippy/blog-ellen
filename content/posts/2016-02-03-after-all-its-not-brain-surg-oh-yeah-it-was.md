@@ -15,8 +15,10 @@ We are home and some beef stroganoff awaits me for dinner downstairs...so that's
 
 <a href="/blog/images/IMG_1461.jpg"><img class="size-large wp-image-992" src="/blog/images/IMG_1461.jpg" alt="Resting up at home after a nap together" /></a> Resting up at home after a nap together
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Gina Qualliotine</span>

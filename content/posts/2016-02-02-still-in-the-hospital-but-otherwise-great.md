@@ -20,8 +20,10 @@ categories:
 
 <a href="/blog/images/IMG_1449.jpg"><img class="size-medium wp-image-987" src="/blog/images/IMG_1449.jpg" alt="badass selfie!" /></a> badass selfie!
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

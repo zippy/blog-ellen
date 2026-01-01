@@ -27,8 +27,10 @@ I think that's it for now--that's a lot for two weeks. I'm hoping for a calmer n
 
 OK, when was anything I ever wrote actually "quick"?
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">David</span>

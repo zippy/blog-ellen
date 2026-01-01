@@ -11,8 +11,10 @@ I am learning a bit about this organization <a href="http://sharsheret.org">Shar
 
 <iframe src="//www.youtube.com/embed/gQ_D7ruENGA?rel=0" frameborder="0" allowfullscreen></iframe>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dee</span>

@@ -24,8 +24,10 @@ Over the weekend and on Monday I was queasy for most of the days, but it wasn't 
 
 So chemo is over with until the 20th and now it's just the zapping ahead.  Which I have to get in the car and go toward right now!  My friend Isa said: "I love that, by about 3pm today, you'll have a shiny, well, healthy and happy brain."  I am holding that intention close!
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

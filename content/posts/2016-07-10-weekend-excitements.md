@@ -29,8 +29,10 @@ I sat in a big collapsible chair borrowed from Emilie and tried to take some int
 
 <img class="wp-image-1278 aligncenter" src="/blog/images/teens-at-wedding.jpg" alt="teens at wedding" />
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Debra Hunter</span>

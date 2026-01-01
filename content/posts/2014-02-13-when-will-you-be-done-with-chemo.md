@@ -23,8 +23,10 @@ I think in cases where people's cancer just goes away, and they are "NED" (no ev
 
 But there are also people who ditch standard medical treatment--often when it stops working well for them--and try alternative or complementary treatments or integrative treatment strategies (standard plus complementary treatments).  Which I have been looking into, for sure, because standard chemotherapy in the end doesn't have that much to offer.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

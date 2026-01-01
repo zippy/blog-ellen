@@ -13,8 +13,10 @@ When I found I couldn't peel an orange or a grapefruit anymore (I like my grapef
 
 I assume no one out there in healthy-person-land, world of the well, wants to peel my orange for me.  But I think this is wrong in general.  People wish they could help, change things, make a difference--and this is one thing they can do for me, I guess.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Sarah Way</span>

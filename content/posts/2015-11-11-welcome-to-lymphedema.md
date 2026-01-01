@@ -120,8 +120,10 @@ I need that right now because I'm still knocked out by the pneumonia (and blood 
 
 We are receiving so much help and company that it is easy to keep my mood basically positive most of the time, though.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Gina Qualliotine</span>

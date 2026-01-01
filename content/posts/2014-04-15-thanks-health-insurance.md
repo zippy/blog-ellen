@@ -11,8 +11,10 @@ It has always seemed expensive, but this really puts it in perspective.
 
 <a href="/blog/images/AMCradbill2.png"></a><a href="/blog/images/AMCradbill11.png"><img class="aligncenter size-thumbnail wp-image-325" title="AMCradbill" src="/blog/images/AMCradbill11.png" alt="AMCradbill" /></a>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

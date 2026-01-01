@@ -19,8 +19,10 @@ Foods I've been eating lately:
 </ul>
 P.S. Well, they do, but they're fried. Except if you make them at home and bake them instead (6 min per side @ 350).
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dorian</span>

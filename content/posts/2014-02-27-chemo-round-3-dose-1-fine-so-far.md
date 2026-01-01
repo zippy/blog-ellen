@@ -21,8 +21,10 @@ In other news, here is another fun-with-headwear photo:
 
 In the early 1990s, I had a beloved long drop-waisted paisley dress from The Limited in nice smooth heavy cotton.  The top of that dress has now been liberated from the bottom and is a blouse; the bottom is cut into a swath of fabric and is on my head above.  Yay for reuse!
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Bob Elmendorf</span>

@@ -21,8 +21,10 @@ And of course getting this house designed and built felt like a huge, 3+ year mu
 
 Some pictures! (scroll way down for all of them, and click for bigger versions if you're interested)
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Gina Qualliotine</span>

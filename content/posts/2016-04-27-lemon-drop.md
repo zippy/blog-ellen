@@ -19,8 +19,10 @@ What I'm trying to explore here is what makes for that lemon-drop feeling of the
 
 <img class="aligncenter wp-image-1214 size-full" src="/blog/images/lemondrops.jpg" alt="lemon drops" />
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

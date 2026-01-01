@@ -17,8 +17,10 @@ Health insurance is so deeply weird.
 
 And Dr. Jeff points out that New York Oncology Hematology is criminal for charging that much for a drug.  After all, it <I>only</I> costs $2856.  How do they think they can get away with charging over twice that much?  (See previous paragraph for the answer.)
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">francois</span>

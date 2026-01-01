@@ -17,8 +17,10 @@ So with my current life I can almost pull this progression off:
 </strong><strong style="color: #333399; font-size: 1.17em;">SAPPT
 </strong>(pee, physical therapy, prothrombin time--a test of clotting ability that I actually don't have to do--yet another medical appointment, and that would be enough for me and my energy would be sapped!)
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dee</span>

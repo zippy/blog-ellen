@@ -26,8 +26,10 @@ categories:
 <p class="p1"><span class="s1">Mommy/Spee</span></p>
 </blockquote>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Lidieth Guindon</span>

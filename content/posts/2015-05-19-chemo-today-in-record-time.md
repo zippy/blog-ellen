@@ -9,8 +9,10 @@ categories:
 
 All went well at chemo today--liver enzymes blazingly normal.  For random reasons, I was in and out of there in record time--70 minutes from the front desk to out the front door again.  Cycle 22 completed!  Now I feel a usual amount of icky but will feel better tomorrow.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">David Millians</span>

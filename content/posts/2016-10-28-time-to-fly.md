@@ -11,8 +11,10 @@ Ellen took her last breath around 5:40 p.m. this evening. Her death coincided wi
 
 <a href="/blog/images/Eric-Ellen.jpg"><img class="aligncenter size-medium wp-image-1459" src="/blog/images/Eric-Ellen.jpg" alt="eric-ellen" /></a>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Mary Anne Davis</span>

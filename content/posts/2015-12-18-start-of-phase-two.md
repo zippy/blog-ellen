@@ -20,8 +20,10 @@ But now my cancer has begun, as my oncologist said Wednesday, "to start acting t
 <p class="p1">Other than the pleural effusion compressing my left lung and adding to my shortness of breath, none of these new things cause any symptoms.  We hope that the two new chemo drugs will control or reduce them as well as keep control of my two original mets (R lung and sternum).</p>
 <p class="p1">So I had a full month off of chemo.  And now it's back to the negotiating tables since the cancer decided it had a lot more things to say to me.</p>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

@@ -21,8 +21,10 @@ Another thing we did with smarts (Eric helped) was to create a spreadsheet to tr
 
 So I feel pretty vain about being smart in this realm that I am forced to inhabit.  Sometimes when I don't feel energetic enough in the brain to engage at this level, I wonder how I will adapt if I ever lose the sharp, medical-smarts part of me for good.  I know there are cancer patients who do none of my self-education and don't ask a lot of questions, and that must be fine for them.  But for me the educated back-and-forth and discovery of interesting new studies is part of this whole experience--a part that buoys me up.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

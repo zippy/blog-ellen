@@ -22,8 +22,10 @@ So, curb cuts.  Here is how I'm living a slightly different version of life now
 
 Next week ideally will be chemo again on Tuesday, then various brain-zap set-up appointments Wednesday and Thursday.  Same for Tuesday the next week, then zapping on Wednesday the 27th.  So that's the plan!  More later on the metastasis spreadsheet, which I actually pulled off, and shared with my oncologist and radiation oncologist.  Next: conquer the world with it (the world of radiology at least).
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

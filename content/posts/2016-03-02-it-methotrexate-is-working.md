@@ -13,8 +13,10 @@ I've been getting intrathecal methotrexate (methotrexate injected into my cereb
 
 I don't know what this means for my chemo schedule in the next month or so, but I I know it's good news.  Only half of patients respond to methotrexate at all, so I'm in that half, which is great.  Now median survival is seven months, with 15% of patients stretching that out beyond 12 months.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Sarah Way</span>

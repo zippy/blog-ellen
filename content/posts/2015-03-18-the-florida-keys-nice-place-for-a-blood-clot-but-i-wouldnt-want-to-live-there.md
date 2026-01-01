@@ -33,8 +33,10 @@ The Tylenol I took for a few days stressed my liver (as Tylenol does…) so when
 
 Instead of chemo we had a long discussion of the DVT, the shoulder pain, the leg pain, and pain relief options.  I went off for a leg ultrasound (to rule out more DVTs) and a femur X-ray (to rule out lesions in the bone) and I will get a full-body bone scan as well because, well, it's been 16 months since my last one.  And Friday I have an appointment with a vascular surgeon to talk about the DVT and follow-up, precautions, etc etc. Yeesh!
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

@@ -9,8 +9,10 @@ categories:
 
 The sign-up box at right is now working fine.  Use it if you want to get e-mail whenever I add a blog post.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Jolene Festa</span>

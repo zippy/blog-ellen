@@ -17,8 +17,10 @@ Today we were at NYOH from 1:30 to 5:00.  Whew!  Blood draw for lab work, visi
 
 I got right in bed because I could feel I needed REST.  Getting better at realizing that, maybe, instead of trying to power through it.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

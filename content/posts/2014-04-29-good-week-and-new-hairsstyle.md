@@ -29,8 +29,10 @@ I think the few hairs left may eventually go, or I may get tired of the silly lo
 
 Really not sure what to do about the thinning eyebrows, though.  No makeup skills.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">M....</span>

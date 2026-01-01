@@ -15,8 +15,10 @@ Or maybe something like this for the back of the bathroom cabinet door...
 
 <img class="alignnone" src="http://ecx.images-amazon.com/images/I/91Hthrtxy8L._SL1500_.jpg" alt="" />
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

@@ -11,8 +11,10 @@ Wow, my teenage neighbor and fellow <a href="http://qivc.org">QIVC</a> member <
 
 Thank you, Bella!
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Debra</span>

@@ -23,8 +23,10 @@ I'm also trying to eat less dairy.  Very sad.
 
 <span style="color: #0000ff;">**More:**</span> At the Stram Center I also met with a nutritionist/dietician with a certification in oncology nutrition.  (He comes from the Block Center in Skokie, IL where I would be going if I lived nearer.  It is an integrative oncology clinic.)  It would be such a luxury to have one set of providers rather than trying to cobble things together…but the reason for the Stram Center is to avoid extreme cobbling.  There is my offensive team (oncologist and oncology nurses) and now my defensive team: the integrative practice.  (See the link on the right for more info about their cancer services.)  The goal of going there--what "defense" means to me right now--is to try to adjust anything in my body that can be adjusted to be less favorable to tumor growth & spread.  The lab tests, according to them, will guide them in suggesting adjustments.  And also to try to minimize side effects--they have suggestions for fatigue, queasiness, and neuropathy.  The IV Vitamin C helps with side effects too.  Looks like I have a lot of work to do before I get there, though.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Cricket</span>

@@ -9,8 +9,10 @@ categories:
 
 I realized on Sunday that what I'm doing with all these hats and bandannas is covering my head.  It feels like <I>covering</I>.  What I was doing in 1995 was <I>hiding</I> my head.  No one else can probably tell the difference, the times I'm covering my head at least, but I can.  What a relief.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">dduck</span>

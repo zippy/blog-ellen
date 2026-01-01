@@ -15,8 +15,10 @@ The back pain that was my daily torture for months has subsided substantially, a
 
 So when it comes to the daily pain burden and the increasing disability, I do wonder, "Why does my journey have to include all this? It's not fair.  It's too much."  It's harder for me to handle than the underlying fact of incurable cancer.  If there is a way I can keep on living despite this disease, does that mean years ahead of hurting this much every day? Of needing this much help with daily basics like getting dressed?  Wow.  I sure did not sign up for *that*.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Deb</span>

@@ -27,8 +27,10 @@ Reading useful books about living with cancer (some about dying with cancer)
 
 As I have often said, having breast cancer is a half-time job.  This time around part of my job is in the kitchen!
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">francois</span>

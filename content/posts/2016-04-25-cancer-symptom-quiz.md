@@ -12,8 +12,10 @@ Just for fun, print and try this quiz!
 
 **<a href="/blog/images/symptom-cause-quiz.pdf" rel="">Problem-Cause Quiz</a>**
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dorian</span>

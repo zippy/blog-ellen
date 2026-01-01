@@ -18,8 +18,10 @@ categories:
 <p class="p1">More later on all the thoughts this makes us all think...</p>
 <p class="p1">*LD is more common now that more women are surviving longer with metastatic disease--the cancer has more time to find its way into the CSF.</p>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Debra</span>

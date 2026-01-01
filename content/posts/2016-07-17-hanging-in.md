@@ -13,8 +13,10 @@ So over the past week it's been pretty much like that, except for good news from
 
 Maybe some other notable things happened this past week, but I just don't remember them at the moment. Chemo is weakening my memory for sure. However, at least now you know that I am still around and still hanging in. Or a reasonable Internet facsimile is.  But ouch.  Would a mere reasonable Internet facsimile have such intense back pain and complain about it this much?
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <a href="http://gravatar.com/shelshap" class="comment-author">Shelly</a>

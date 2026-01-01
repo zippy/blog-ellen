@@ -11,8 +11,10 @@ I had m periodic CT scans last Friday and a bone scan too, warranted by my back
 
 Meanwhile I had vocal therapy today to work on my partially-paralyzed left vocal cord.  I'm getting better, slowly.  Tomorrow, an ENT follow-up appointment before the oncologist, and if all goes well, chemo too.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Debra</span>

@@ -21,8 +21,10 @@ I am always looking out for things I *can* still do, like empty the dish rack 
 
 P.S. Friends say that having the opportunity to help me and love me is the favor I am doing them, the gift I am giving them now.  I hear that, but I think I am maybe not big-hearted enough to really understand it yet.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

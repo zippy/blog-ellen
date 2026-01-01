@@ -11,8 +11,10 @@ At our appointment with the oncologist this morning, we put our heads together a
 
 After that plan was made, we stopped in at radiation oncology to see what was up with my set-up appointments, and they had just called to tell us to come in tomorrow.  But there we were, so we got started today with a little face-and-head-mask-making.  Pictures to come. I know you have all always wondered about the science-fiction-like details of stereotactic radiosurgery.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

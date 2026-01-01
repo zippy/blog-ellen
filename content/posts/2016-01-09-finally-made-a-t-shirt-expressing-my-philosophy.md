@@ -13,8 +13,10 @@ categories:
 
 Want one? You can <a href="http://www.cafepress.com/cp/customize/product2.aspx?number=1693756154#designer" target="_blank">have one too</a>.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Jill Wacker</span>

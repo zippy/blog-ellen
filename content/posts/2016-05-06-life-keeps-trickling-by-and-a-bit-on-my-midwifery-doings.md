@@ -22,8 +22,10 @@ Yesterday was the <a href="https://m.facebook.com/MidwivesAlliance/">Internation
 <p class="p2"><span class="s1">Over in the world of MANA, there is a new poster-presentation contest each year at the conference to encourage entry-level research and project descriptions. I have gotten involved in that, as well, and lo and behold, they went and named the contest after me. A very good way to get me to put energy into it :-)</span></p>
 <p class="p2"><span class="s1">One really lucky thing I see having happened in my life is all the work I did to get ready for the CM program and then the courses I took in the program itself. Things like pharmacology, which I did *not* enjoy and did not really see the point of at some times, have really helped me and served me well as I turn my concentration and what expertise I can muster to metastatic breast cancer.   Having a disease like this means, to me at least, becoming an expert in your own case and care. I do it not because I don’t trust my care providers, but because it helps me feel a little bit like I’m helping drive the bus. Even though this particular bus doesn’t maybe take much direction in the end. So although I had to give up on grad school, it has helped me immensely in the last two years, for which I will always be grateful.</span></p>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

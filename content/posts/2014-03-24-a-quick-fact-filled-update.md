@@ -21,8 +21,10 @@ We are buying a much larger percentage of organic food these days.  All our dai
 
 And now I am going out for sushi with Eric.  Omega 3s.  Very important.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Alice Raymond</span>

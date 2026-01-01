@@ -18,8 +18,10 @@ She said: "Can you please get me," pause, "a white," pause, "tripe?" And then,
 
 Here's a picture from the archives (2012) that reflects a bit of that humor and generosity.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Shelly</span>

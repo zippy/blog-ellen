@@ -20,8 +20,10 @@ This morning I got sick of what was left of my hair (which was falling out in cl
 
 <a href="/blog/images/51.jpg"><img align="middle" src="/blog/images/51.thumbnail.jpg"></a>The actual head!
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <a href="http://heroicgirlz.com" class="comment-author">cparrish</a>

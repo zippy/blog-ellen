@@ -20,8 +20,10 @@ It’s clearer that Ellen’s busy-ness is the terminal restlessness many people
 
 <a href="/blog/images/ellen_reading.jpg"><img class="size-medium wp-image-1331 alignright" src="/blog/images/ellen_reading.jpg" alt="Ellen reading" /></a>Here is one of my favorite photos of Ellen, taken one time when we were at the Cunuñacu hot springs in the valley below Quito, Ecuador.  Do you have a favorite photo of Ellen you’d be willing to share with the family?  If so, please send high-resolution versions by email (don’t worry about MB size) to Ellen’s sister Deb at <a href="mailto:debra@huntermorgan.com">debra@huntermorgan.com</a>.  If you can provide the date, location, and names of others in the photos, that would be helpful.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Isa Coffey</span>

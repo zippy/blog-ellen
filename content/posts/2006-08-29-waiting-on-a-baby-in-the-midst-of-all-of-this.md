@@ -23,8 +23,10 @@ I feel pretty clear that telling them what I've told them so far is the right th
 
 I spent so long trying to figure out what felt the rightest to do in this situation--I hope in the future I can arrive at the same level of comfort with a conclusion by a shorter, less thought-consuming path.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Leeighuh</span>

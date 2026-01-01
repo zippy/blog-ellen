@@ -29,8 +29,10 @@ Here is last week's community Shaker Lemon Pie story out loud:
 
 <a href="/blog/images/IMG_1425.jpg"><img class="wp-image-1003 size-medium" src="/blog/images/IMG_1426.jpg" alt="IMG_1426" /></a> Two-crust pie
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dee</span>

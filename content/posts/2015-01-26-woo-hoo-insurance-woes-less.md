@@ -19,8 +19,10 @@ In the city we saw the Henri Matisse Cut-Outs special exhibit at MoMA, went to a
 
 Before the weekend I spent time feeling fatigued and a bit loopy due to the brain zap & the just-in-case anti-seizure medication.  But we still managed to get household things done and do some good Online Writing Workshop work.  Chemo started up again uneventfully on Thursday (also this coming Thursday).  And that's the news.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dee</span>

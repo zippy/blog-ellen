@@ -11,8 +11,10 @@ tags:
 
 <a href="http://ekhb.harris-braun.com/blog/2016/04/07/body-by-steroids/body-by-steroids/" rel="attachment wp-att-1165"><img class="aligncenter wp-image-1165 size-full" src="/blog/images/body-by-steroids.png" alt="body by steroids" /></a>
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">Dee</span>

@@ -42,8 +42,10 @@ All summer our garden produced a bounty of kale (enough for us to give lots away
 
 So that's the summary of now vs. January 2014.  The coming week is pretty full with appointments and the rest of life, but I will plan to post something after my brain has been zapped again and I have thus developed a new superpower. Wonder what it will be? Nominations welcome.
 
+<!--more-->
+
 <div class="historical-comments">
-<h2>Historical Comments</h2>
+<h2>Comments</h2>
 <div class="comment">
 <div class="comment-meta">
 <span class="comment-author">David</span>
