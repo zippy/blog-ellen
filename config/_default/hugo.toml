@@ -10,7 +10,7 @@ enableRobotsTXT = true
   pagerSize = 20
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "JSON"]
 
 [taxonomies]
   category = "categories"
@@ -35,6 +35,7 @@ enableRobotsTXT = true
   post_meta = ["date", "author", "categories"]
   mainSections = ["posts"]
   customCSS = ["css/custom.css"]
+  customJS = ["js/fuse.min.js", "js/search.js"]
   highlightColor = "#789993"
 
 [params.author]
@@ -49,6 +50,6 @@ enableRobotsTXT = true
   home = "right"
   list = "right"
   single = "right"
-  widgets = ["about", "links", "background", "categories"]
+  widgets = ["about", "search", "links", "background", "categories"]
 
 

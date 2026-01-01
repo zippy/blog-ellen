@@ -1,0 +1,12 @@
+{{- $index := slice -}}
+{{- range .Site.RegularPages -}}
+  {{- $index = $index | append (dict
+    "title" (.Title | safeJS)
+    "date" (.Date.Format "January 2, 2006")
+    "summary" (.Summary | plainify | safeJS)
+    "content" (.Plain | safeJS)
+    "permalink" .RelPermalink
+    )
+  -}}
+{{- end -}}
+{{- $index | jsonify -}}
