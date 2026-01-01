@@ -1,0 +1,128 @@
+[[main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[main]]
+  name = "2013 & Onward"
+  url = "/pages/2013-onward/"
+  weight = 2
+  identifier = "2013-onward"
+
+[[main]]
+  name = "England trip: London (part 1)"
+  url = "/pages/england-trip-london-september-21-24-part-1/"
+  parent = "2013-onward"
+  weight = 1
+
+[[main]]
+  name = "England trip: London (part 2)"
+  url = "/pages/england-trip-london-september-24-27-part-2/"
+  parent = "2013-onward"
+  weight = 2
+
+[[main]]
+  name = "France trip: Aix-en-Provence (part 1)"
+  url = "/pages/france-trip-aix-en-provence-july-1-13-2015-part-1/"
+  parent = "2013-onward"
+  weight = 3
+
+[[main]]
+  name = "France trip: Aix-en-Provence (part 2)"
+  url = "/pages/france-trip-aix-en-provence-july-1-13-2015-part-2/"
+  parent = "2013-onward"
+  weight = 4
+
+[[main]]
+  name = "My smoothie recipe!"
+  url = "/pages/my-smoothie-recipe/"
+  parent = "2013-onward"
+  weight = 5
+
+[[main]]
+  name = "The e-mail update no one wants to send or receive"
+  url = "/pages/the-e-mail-update-no-one-wants-to-send-or-receive/"
+  parent = "2013-onward"
+  weight = 6
+
+[[main]]
+  name = "PARP inhibitors"
+  url = "/pages/parp-inhibitors/"
+  parent = "2013-onward"
+  weight = 7
+
+[[main]]
+  name = "Chronomodulated chemotherapy"
+  url = "/pages/chronomodulated-chemotherapy/"
+  parent = "2013-onward"
+  weight = 8
+
+[[main]]
+  name = "Eribulin (Halaven)"
+  url = "/pages/eribulin-halaven/"
+  parent = "2013-onward"
+  weight = 9
+
+[[main]]
+  name = "IV Vitamin C"
+  url = "/pages/iv-vitamin-c/"
+  parent = "2013-onward"
+  weight = 10
+
+[[main]]
+  name = "2006-2007 Updates"
+  url = "/pages/2006-2007/"
+  weight = 3
+  identifier = "2006-2007"
+
+[[main]]
+  name = "Ellen update 7/30/06"
+  url = "/pages/ellen-update-73006-aka-way-too-much-information/"
+  parent = "2006-2007"
+  weight = 1
+
+[[main]]
+  name = "Ellen update 8/18/06"
+  url = "/pages/ellen-update-81806/"
+  parent = "2006-2007"
+  weight = 2
+
+[[main]]
+  name = "Ellen update 8/27/06"
+  url = "/pages/ellen-update-82706/"
+  parent = "2006-2007"
+  weight = 3
+
+[[main]]
+  name = "Ellen update 9/11/06"
+  url = "/pages/ellen-update-91106/"
+  parent = "2006-2007"
+  weight = 4
+
+[[main]]
+  name = "Ellen update 10/3/06"
+  url = "/pages/ellen-update-10306/"
+  parent = "2006-2007"
+  weight = 5
+
+[[main]]
+  name = "bibliotherapy: sick"
+  url = "/pages/bibliotherapy-sick/"
+  parent = "2006-2007"
+  weight = 6
+
+[[main]]
+  name = "bibliotherapy: well"
+  url = "/pages/bibliotherapy-well/"
+  parent = "2006-2007"
+  weight = 7
+
+[[main]]
+  name = "Archives"
+  url = "/archives/"
+  weight = 4
+
+[[main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 5

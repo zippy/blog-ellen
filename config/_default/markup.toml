@@ -1,0 +1,4 @@
+# Enable raw HTML in markdown (needed for embedded historical comments)
+[goldmark]
+  [goldmark.renderer]
+    unsafe = true

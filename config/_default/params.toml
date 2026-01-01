@@ -1,0 +1,23 @@
+# Ananke theme parameters for Ellen's blog
+
+# Banner image from original WordPress site
+featured_image = "/images/gc2.jpg"
+
+# Site description
+description = "breast cancer...again?"
+
+# Custom CSS for Ellen's color scheme
+custom_css = ["css/custom.css"]
+
+# Show reading time on posts
+show_reading_time = true
+
+# Disable comments (historical only embedded in posts)
+commentable = false
+
+# Main sections to show on homepage
+mainSections = ["posts"]
+
+# Show recent posts on homepage
+[ananke]
+  show_recent_posts = true

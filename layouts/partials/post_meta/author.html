@@ -1,0 +1,6 @@
+{{- with .Params.author -}}
+{{- $firstName := index (split . " ") 0 -}}
+<div class="meta__item-author meta__item">
+	<span class="meta__text">by {{ $firstName }}</span>
+</div>
+{{- end -}}

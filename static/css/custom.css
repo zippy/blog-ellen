@@ -1,0 +1,207 @@
+/* Ellen's warm earth tones from original WordPress site */
+:root {
+  --tan: #a48a61;
+  --sage-green: #789993;
+  --footer-dark: #566965;
+  --link-blue: #1c346b;
+  --link-hover: #14b4e5;
+}
+
+/* Override Ananke's primary color with tan */
+.bg-primary {
+  background-color: var(--tan) !important;
+}
+
+/* Footer styling */
+footer {
+  background-color: var(--footer-dark) !important;
+}
+
+/* Link colors */
+a {
+  color: var(--link-blue);
+}
+
+a:hover {
+  color: var(--link-hover);
+}
+
+/* Article links should use sage green */
+.nested-links a {
+  color: var(--sage-green);
+}
+
+.nested-links a:hover {
+  color: var(--tan);
+}
+
+/* Historical comments styling */
+.historical-comments {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid #ddd;
+}
+
+.historical-comments h2 {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: var(--footer-dark);
+}
+
+.comment {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background-color: #f5f5f0;
+  border-radius: 4px;
+  border-left: 3px solid var(--sage-green);
+}
+
+.comment-meta {
+  font-size: 0.875rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.comment-author {
+  font-weight: 600;
+  color: var(--tan);
+}
+
+.comment-author a {
+  color: var(--tan);
+}
+
+.comment-author a:hover {
+  color: var(--sage-green);
+}
+
+.comment-content p {
+  margin: 0.5rem 0;
+}
+
+.comment-content p:first-child {
+  margin-top: 0;
+}
+
+.comment-content p:last-child {
+  margin-bottom: 0;
+}
+
+/* Banner styling */
+.header__banner {
+  width: 100%;
+  max-height: 200px;
+  overflow: hidden;
+  position: relative;
+}
+
+.header__banner-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+
+/* Tagline overlay on banner */
+.header__tagline {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(175, 220, 255, 0.6);
+  padding: 1rem 5rem;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.header__tagline .header__title {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: normal;
+  letter-spacing: 0.05em;
+  color: #1c346b;
+}
+
+.header__tagline .header__subtitle {
+  margin: 0.5rem 0 0 0;
+  font-style: italic;
+  color: #555;
+  border-top: 1px solid #1c346b;
+  padding-top: 0.5rem;
+}
+
+/* Nav bar color */
+.header__container {
+  background: #789993;
+  text-align: center;
+}
+
+.menu__list {
+  background: #789993;
+  justify-content: center;
+}
+
+.menu__link {
+  color: #1c346b !important;
+}
+
+.menu__link:hover {
+  color: #fff !important;
+}
+
+/* Dropdown menu styling */
+.menu__item--has-children {
+  position: relative;
+}
+
+.menu__submenu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #566965;
+  min-width: 250px;
+  padding: 0.5rem 0;
+  list-style: none;
+  z-index: 100;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.menu__item--has-children:hover .menu__submenu {
+  display: block;
+}
+
+.menu__subitem {
+  padding: 0;
+}
+
+.menu__sublink {
+  display: block;
+  padding: 0.4rem 1rem;
+  color: #fff !important;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.menu__sublink:hover {
+  background: #789993;
+  color: #fff !important;
+}
+
+/* Background widget spacing */
+.widget-background p {
+  margin: 0;
+  margin-top: 1rem;
+}
+
+.widget-background p:first-child {
+  margin-top: 0;
+}
+
+.widget-background ul,
+.widget-links ul {
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+}

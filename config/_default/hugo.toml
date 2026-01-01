@@ -1,0 +1,54 @@
+theme = "mainroad"
+baseURL = "https://ellen.harris-braun.com/blog/"
+languageCode = "en-us"
+title = "world of the sick / world of the well"
+subtitle = "breast cancer...again?"
+
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 20
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# Match original WordPress URL structure: /YYYY/MM/DD/slug/
+[permalinks]
+  posts = "/:year/:month/:day/:slug/"
+
+[permalinks.section]
+  pages = "/:slug/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  description = "Ellen Harris-Braun's Blog"
+  copyright = ""
+  authorbox = false
+  post_meta = ["date", "author", "categories"]
+  mainSections = ["posts"]
+  customCSS = ["css/custom.css"]
+  highlightColor = "#789993"
+
+[params.author]
+  name = "Ellen Harris-Braun"
+  bio = "I never 'got' the whole blogging thing. But things change when you get cancer. They change again when it comes back metastatic."
+
+[params.logo]
+  title = "Ellen Harris-Braun's Blog"
+  subtitle = "world of the sick / world of the well"
+
+[params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  widgets = ["about", "links", "background", "categories"]
+
+

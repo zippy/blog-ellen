@@ -1,0 +1,18 @@
+{{ define "main" }}
+<main class="main list" role="main">
+	{{- with .Content }}
+	<div class="content main__content clearfix">
+		{{ . }}
+	</div>
+	{{- end }}
+	{{ $posts := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+	{{- range first 5 $posts }}
+		{{- .Render "summary" }}
+	{{- end }}
+	{{- if gt (len $posts) 5 }}
+	<div class="pagination">
+		<a class="btn" href="{{ "posts/" | relURL }}">View all {{ len $posts }} posts &rarr;</a>
+	</div>
+	{{- end }}
+</main>
+{{ end }}
